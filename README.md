@@ -11,7 +11,7 @@ The **PEMS06** dataset is collected from District 6 of the California Transporta
 - **Scale**: 651 sensor nodes, 16,992 time steps.
 - **Split**: Train:Validation:Test = **6:2:2**.
 
-![Dataset Distribution](./Node distribution.jpg)
+![Dataset Distribution](Node distribution.jpg)
 > *Figure: Spatial distribution of PEMS06 sensor nodes and traffic flow sequences.*
 
 ## ⚙️ Data Processing
@@ -26,4 +26,4 @@ The **PEMS06** dataset is collected from District 6 of the California Transporta
 
 ## 📥 Download
 
-- **Google Drive **: [Download Link](https://drive.google.com/drive/folders/1_dbrXhiwOChNqMPr3PonKJ_Vh-oUYGN-?usp=sharing)
+- Google Drive : [Download Link](https://drive.google.com/drive/folders/1_dbrXhiwOChNqMPr3PonKJ_Vh-oUYGN-?usp=sharing)
